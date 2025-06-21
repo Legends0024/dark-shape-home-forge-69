@@ -14,7 +14,7 @@ const Index = () => {
               <Users className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              TeamFlow
+              CEDUR
             </span>
           </div>
           
@@ -274,7 +274,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-slate-800 mt-12 pt-8 text-center text-slate-400">
-            <p>&copy; 2024 TeamFlow. All rights reserved.</p>
+            <p>&copy; 2025 TeamFlow. All rights reserved.</p>
           </div>
         </div>
       </footer>
