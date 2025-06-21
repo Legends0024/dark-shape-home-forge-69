@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL**: [Live Project Link]([https://lovable.dev/projects/6533a99c-238e-4b0e-9fd4-f3e3f9c10a11](https://dark-shape-home-forge-69-qpp7ff38l-manav-s-projects-abbe9ab0.vercel.app/))
+**URL**: [Live Project Link]([[https://lovable.dev/projects/6533a99c-238e-4b0e-9fd4-f3e3f9c10a11](https://dark-shape-home-forge-69-qpp7ff38l-manav-s-projects-abbe9ab0.vercel.app/)](https://cedur-intern-project.vercel.app/))
 
 ## About
 
